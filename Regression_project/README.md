@@ -21,3 +21,5 @@ __Ссылка на профиль: https://www.kaggle.com/maksimaz__
 12|Healthcare_1, Helthcare_2 | показатели местности, связанные с охраной здоровья
 13|Shops_1, Shops_2 | показатели, связанные с наличием магазинов, торговых центров
 14|Price | цена квартиры
+
+![LB](Private_leaderboard.png)

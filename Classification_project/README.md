@@ -24,3 +24,6 @@ __Ссылка на профиль: https://www.kaggle.com/maksimaz__
 15|Monthly Debt | ежемесячный долг
 16|Credit Score | баллы кредитного рейтинга
 17|Credit Default | факт невыполнения кредитных обязательств (0 - погашен вовремя, 1 - просрочка)
+
+
+![LB](Private_leaderboard.png)

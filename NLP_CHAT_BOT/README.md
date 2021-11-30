@@ -14,4 +14,4 @@
 # Telegram logic
 ![logic](bot_logic.png)
 # Some results:
-[results](/results)
+[results](https://github.com/ZavrazhinMA/Portfolio_DS/tree/main/NLP_CHAT_BOT/results)

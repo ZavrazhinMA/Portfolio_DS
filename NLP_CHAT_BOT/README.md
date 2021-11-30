@@ -14,4 +14,4 @@
 # Telegram logic
 ![logic](bot_logic.png)
 # Some results:
-![results](/results)
+[results](/results)

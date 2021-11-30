@@ -15,4 +15,4 @@
 ![logic](bot_logic.png)
 # Some results:
 [results](https://github.com/ZavrazhinMA/Portfolio_DS/tree/main/NLP_CHAT_BOT/results)
-<table><tr><td><img src='https://github.com/ZavrazhinMA/Portfolio_DS/tree/main/NLP_CHAT_BOT/results/sm1.jpg'></td><td><img src='https://github.com/ZavrazhinMA/Portfolio_DS/tree/main/NLP_CHAT_BOT/results/sm2.jpg'></td></tr></table>
+

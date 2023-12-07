@@ -16,4 +16,4 @@
 ![zp_msk_vac](https://github.com/ZavrazhinMA/Portfolio_DS/blob/main/SPARK_project/results/avg_zp_msk_vac.png)
 
 ## Full results
-![results](https://github.com/ZavrazhinMA/Portfolio_DS/blob/main/SPARK_project/results/full_results_it_2023.pdf)
+[results](https://github.com/ZavrazhinMA/Portfolio_DS/blob/main/SPARK_project/results/full_results_it_2023.pdf)

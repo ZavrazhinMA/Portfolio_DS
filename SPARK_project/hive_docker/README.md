@@ -3,12 +3,13 @@ To run Hive with postgresql metastore:
 ```
     docker-compose up -d
 ```
-## comands
+## commands
 ```
 docker cp "your_path_to_parquet" hive_docker-hive-server-1:/opt
 docker-compose exec hive-server bash
-hdfs dfs -put -f /opt/results /user/hive
+hdfs dfs -put -f /opt/"your_path_to_parquet" /user/hive
 __________________________________________________________________
+
 hdfs dfs -rm -r /user/hive
 rm -r results
 
